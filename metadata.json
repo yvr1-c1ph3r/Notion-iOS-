@@ -1,0 +1,5 @@
+{
+  "name": "Notion Widget Simulator for iOS",
+  "description": "Notionのデータベースと連携し、iPhoneのリマインダー風のUIでチェックリストを管理できるウィジェット型Webアプリケーションです。Geminiを活用したスマートなタスク分類と操作性を備えています。",
+  "requestFramePermissions": []
+}
